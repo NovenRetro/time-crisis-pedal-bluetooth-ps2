@@ -1,0 +1,23 @@
+{
+  "name": "Pedal BlueTooth para PS2",
+  "version": "1.0.0",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "TIME_CRISIS_PEDAL_NR.ino.bootloader.bin",
+          "offset": 4096
+        },
+        {
+          "path": "TIME_CRISIS_PEDAL_NR.ino.partitions.bin",
+          "offset": 32768
+        },
+        {
+          "path": "TIME_CRISIS_PEDAL_NR.ino.bin",
+          "offset": 65536
+        }
+      ]
+    }
+  ]
+}
