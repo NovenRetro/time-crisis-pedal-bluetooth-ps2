@@ -30,11 +30,12 @@ Firmware compilado (.bin)
 
 Conexión sencilla (ver esquema en el repositorio)
 
-# 🟢 El pedal se comporta como el botón X del mando PS2, por lo que BlueRetro lo reconoce automáticamente sin necesidad de configurar nada.
+🟢 El pedal se comporta como el botón X del mando PS2, por lo que BlueRetro lo reconoce automáticamente sin necesidad de configurar nada.
 
 📸 Esquema de conexión
 En el repositorio encontrarás un diagrama con todas las conexiones necesarias para armar el circuito completo, incluyendo carga por USB.
 
-👨‍💻 Autor
-Proyecto desarrollado por @NovenRetro
+# 👨‍💻 Autor
+Proyecto desarrollado por @NovenRetro, ideado y verificado por @GrumpyTech
+
 Video paso a paso en YouTube: [Canal NovenRetro](https://youtube.com/@novenretro)
