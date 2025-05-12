@@ -8,6 +8,7 @@ Usa un ESP32 y se comunica por Bluetooth con una PS2 que tenga el mod BlueRetro 
 Solo necesitás usar Google Chrome, Edge o un navegador compatible.
 
 # ➡️ Ir al instalador web
+🌐 https://novenretro.github.io/time-crisis-pedal-bluetooth-ps2/
 
 Conectá tu ESP32 por USB
 
